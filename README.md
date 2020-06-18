@@ -1,2 +1,2 @@
 # Python Servers
-Simple HTTP, FTP and SMTP server in Python
+Simple HTTP, FTP and SMTP server in Python for Communication Principles 2019.2 - UFCG
